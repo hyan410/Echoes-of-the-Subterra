@@ -1,0 +1,164 @@
+{
+	"name": "SpikyMineThing",
+	"spriteSheetImage": "spiketest2.png",
+	"spriteWidth": 12,
+	"spriteHeight": 12,
+	"leftBuffer": 0,
+	"rightBuffer": 0,
+	"topBuffer": 0,
+	"bottomBuffer": 0,
+	"columns": 4,
+	"rows": 7,
+  "animations": [
+    {
+      "name": "IDLE",
+      "repeat": true,
+      "frames": [
+        {
+          "index": 0,
+          "duration": 13
+        },
+        {
+          "index": 1,
+          "duration": 13
+        },
+        {
+          "index": 2,
+          "duration": 13
+        },
+        {
+          "index": 3,
+          "duration": 13
+        }
+      ]
+    },
+    {
+      "name": "EXPLODING",
+      "repeat": true,
+      "frames": [
+        {
+          "index": 4,
+          "duration": 4
+        },
+        {
+          "index": 5,
+          "duration": 4
+        },
+        {
+          "index": 6,
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "name": "INVINCIBLE",
+      "repeat": true,
+      "frames": [
+        {
+          "index": 8,
+          "duration": 13
+        },
+        {
+          "index": 9,
+          "duration": 13
+        },
+        {
+          "index": 10,
+          "duration": 13
+        },
+        {
+          "index": 11,
+          "duration": 13
+        }
+      ]
+    },
+    {
+      "name": "WEAKENING",
+      "repeat": true,
+      "frames": [
+        {
+          "index": 12,
+          "duration": 4
+        },
+        {
+          "index": 13,
+          "duration": 4
+        },
+        {
+          "index": 14,
+          "duration": 4
+        },
+        {
+          "index": 15,
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "name": "HALFWEAK",
+      "repeat": true,
+      "frames": [
+        {
+          "index": 16,
+          "duration": 13
+        },
+        {
+          "index": 17,
+          "duration": 13
+        },
+        {
+          "index": 18,
+          "duration": 13
+        },
+        {
+          "index": 19,
+          "duration": 13
+        }
+      ]
+    },
+    {
+      "name": "TOPWEAK",
+      "repeat": true,
+      "frames": [
+        {
+          "index": 20,
+          "duration": 13
+        },
+        {
+          "index": 21,
+          "duration": 13
+        },
+        {
+          "index": 22,
+          "duration": 13
+        },
+        {
+          "index": 23,
+          "duration": 13
+        }
+      ]
+    },
+    {
+      "name": "WEAKTODARK",
+      "repeat": true,
+      "frames": [
+        {
+          "index": 24,
+          "duration": 13
+        },
+        {
+          "index": 25,
+          "duration": 13
+        },
+        {
+          "index": 26,
+          "duration": 13
+        },
+        {
+          "index": 27,
+          "duration": 13
+        }
+      ]
+    }
+  ]
+}

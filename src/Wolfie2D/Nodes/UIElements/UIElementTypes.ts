@@ -1,0 +1,7 @@
+export enum UIElementType {
+	BUTTON = "BUTTON",
+	NEWBUTTON = "NEWBUTTON",
+	LABEL = "LABEL",
+	SLIDER = "SLIDER",
+	TEXT_INPUT = "TEXTINPUT"
+}
